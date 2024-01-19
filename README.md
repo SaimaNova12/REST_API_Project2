@@ -53,3 +53,8 @@ https://documenter.getpostman.com/view/32179388/2s9YsT5Tdc
 #### Update the values
 - Use token in the header section to update the values
 #### Automate the whole process by setting the Variables in the environment and use them in the body. To random generate huge number of data use pre-request script and postman predifined Variables. 
+![1p](https://github.com/SaimaNova12/REST_API_Project2/assets/76209488/135c5808-4b85-420b-adf9-9ed4197b9c58)
+![2p](https://github.com/SaimaNova12/REST_API_Project2/assets/76209488/9a11da6a-4a6d-4071-af8c-4d65729af1e7)
+![3p](https://github.com/SaimaNova12/REST_API_Project2/assets/76209488/98340c0e-9929-4a00-853b-348c4815d836)
+![4p](https://github.com/SaimaNova12/REST_API_Project2/assets/76209488/6e6313e7-9c1f-4e06-8e8d-7c4bf5b2fda7)
+
